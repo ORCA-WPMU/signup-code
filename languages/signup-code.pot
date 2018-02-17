@@ -1,0 +1,81 @@
+# Copyright (C) 2013 Signup Code
+# This file is distributed under the same license as the Signup Code package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Signup Code 1.0.3.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/signup-code\n"
+"POT-Creation-Date: 2013-10-15 08:28:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  signup-code.pot (Signup Code 1.0.3.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: signup-code.php:67 signup-code.php:71 signup-code.php:103
+msgid "Signup Code"
+msgstr ""
+
+#: signup-code.php:92
+msgid "Nice Try..."
+msgstr ""
+
+#: signup-code.php:107
+msgid "Code"
+msgstr ""
+
+#: signup-code.php:110
+msgid ""
+"Users must enter this code in order to signup. Letters and numbers only."
+msgstr ""
+
+#: signup-code.php:114
+msgid "Signup Code Branding"
+msgstr ""
+
+#: signup-code.php:117
+msgid ""
+"This is the text that will be displayed on the signup form. Ex: Invite Code"
+msgstr ""
+
+#: signup-code.php:122
+msgid "Save Changes"
+msgstr ""
+
+#: signup-code.php:123
+msgid "Reset"
+msgstr ""
+
+#: signup-code.php:134 signup-code.php:142
+msgid "Changes saved."
+msgstr ""
+
+#: signup-code.php:215
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://premium.wpmudev.org/project/signup-code"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Limit who can sign up for a blog or user account at your site by requiring a "
+"special code that you can easily configure yourself"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "S H Mohanjith (Incsub), Andrew Billits (Incsub)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://premium.wpmudev.org"
+msgstr ""
